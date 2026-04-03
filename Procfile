@@ -1,1 +1,1 @@
-web: docker-compose up
+web: docker-compose -f compose.yaml up
